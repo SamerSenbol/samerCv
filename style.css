@@ -59,29 +59,15 @@ display: inline;
     color: white;
     background-color: #33f574;
 }
-
-/*------------------MAIN CONTENT-----------------*/
+.title{
+    text-align: center;
+}
+  /*------------------MAIN CONTENT-----------------*/
 .maincontent{
     width: 70%;
     float: left;
-}
-.top-content{
-    padding: 3%;
-    margin-top: 3%;
-    border-radius: 5px; 
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-}
-.post-info{
-    font-size: 90%;
-    color: #999;
-    font-style: italic;
-    margin-top: -20px;  
-}
-.post-content{
+} 
 
-    display: block;
-}
 /*------------------Footer-----------------*/
 
 footer{
@@ -89,13 +75,4 @@ footer{
     color: white;
     background-color: #33f574; 
 }
-footer .p{
-    margin-left: 60px;
-    float: left;
-    text-align: center;
-    color: #fff;
-    width: 90%;
-}
-.title{
-    text-align: center;
-}
+
