@@ -22,7 +22,7 @@ a:hover, a:active{color: #f58233;}
 .headerImg{
     position: relative;
 }
-#samer{
+.samer{
     position: absolute;
     top: 20px;
     right: 15px;
