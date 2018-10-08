@@ -1,11 +1,9 @@
 /*------------------CSS3 FOR MOBIL-----------------*/
 @media screen and (max-width: 375px){
     .body{
-    
         width: 90%;
         font-size: 95%;
         background-color: cornflowerblue;
-    
     }
     .mainheader nav{
         height: 160px;
@@ -17,7 +15,6 @@
     .mainheader nav ul li {
     display: inline;
     }
-    
     .mainheader a:link,.mainheader a:visited{
         color: white;
         padding: 10px 40px;
@@ -25,27 +22,7 @@
         height: 20px;
         display:block;
     }
-    
-    .mainheader a:hover,.mainheader a:active{
-        color: white;
-        background-color: #33f574;
-    }
     .maincontent{
         width: 100%;
-       
-    }
-    .thesidebar{
-        width: 94%;
- 
-    }
-}
-@media screen and (max-width: 680px){
-    .body{
-    
-        width: 80%;
-        font-size: 95%;
-        
-
-    
     }
 }
