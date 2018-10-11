@@ -11,7 +11,6 @@ body{
 a{text-decoration: none;}
 a:link, a:visited{color: #202441;}
 a:hover, a:active{color: #f58233;}
-
 /*------------------MAIN HEADER-----------------*/
 .headerImage{
     width: 100%;
@@ -43,18 +42,15 @@ a:hover, a:active{color: #f58233;}
     list-style: none;
     margin: 0 auto;
 }
-
 .mainheader nav ul li {
-display: inline;
+    display: inline;
 }
-
 .mainheader a:link,.mainheader a:visited{
     color: white;
     padding: 10px 40px;
     display: inline-block;
     text-shadow: 1px 1px rgb(131, 60, 60);
 }
-
 .mainheader a:hover,.mainheader a:active{
     color: white;
     background-color: #33f574;
@@ -62,12 +58,11 @@ display: inline;
 .title{
     text-align: center;
 }
-  /*------------------MAIN CONTENT-----------------*/
+/*------------------MAIN CONTENT-----------------*/
 .maincontent{
     width: 70%;
     float: left;
-} 
-
+}
 /*------------------Footer-----------------*/
 footer{
     width: 100%;
