@@ -6,7 +6,7 @@
         background-color:#F5F5DC;
     }
     .mainheader nav{
-        height: 160px;
+        height: 180px;
     }
     .mainheader ul {
         width: 100%;
@@ -17,7 +17,6 @@
     }
     .mainheader a:link,.mainheader a:visited{
         color: white;
-        padding: 10px 40px;
         display: inline-block;
         height: 20px;
         display:block;

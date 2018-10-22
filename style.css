@@ -47,7 +47,7 @@ a:hover, a:active{color: #f58233;}
 }
 .mainheader a:link,.mainheader a:visited{
     color: white;
-    padding: 10px 40px;
+    padding: 8px 20px;
     display: inline-block;
     text-shadow: 1px 1px rgb(131, 60, 60);
 }
