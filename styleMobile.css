@@ -26,7 +26,10 @@
     }
     .headerImage{
         height: 150px;
-        border-radius: 5px;
-        position: relative;
+    }
+    .samer{
+        height: 150px;
+        width: 150 px;
+        border-radius: 6px;
     }
 }
