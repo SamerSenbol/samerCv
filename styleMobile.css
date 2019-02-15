@@ -24,4 +24,9 @@
     .maincontent{
         width: 100%;
     }
+    .headerImage{
+        height: 150px;
+        border-radius: 5px;
+        position: relative;
+    }
 }
