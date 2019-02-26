@@ -28,8 +28,10 @@
         height: 150px;
     }
     .samer{
-        height: 150px;
-        width: 150 px;
+        height: 145px;
         border-radius: 6px;
+    }
+    .mainheader nav{
+        margin-top: 1px;
     }
 }
