@@ -1,9 +1,10 @@
 /*------------------CSS3 FOR MOBIL-----------------*/
 @media screen and (max-width: 414px){
     body{
+        background-color:#111111;
+        color:#0074D9;
         width: 90%;
         font-size: 95%;
-        background-color:#F5F5DC;
     }
     .mainheader nav{
         height: 180px;
