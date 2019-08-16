@@ -9,9 +9,10 @@ body{
     width: 80%;
     clear: both;
 }
-a{text-decoration: none;}
-a:link, a:visited{color: #202441;}
-a:hover, a:active{color: #f58233;}
+a{text-decoration: none}
+
+li a {color: #0074D9}
+a:hover, a:active{color: #f58233}
 /*------------------MAIN HEADER-----------------*/
 .headerImage{
     width: 100%;
