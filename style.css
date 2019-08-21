@@ -81,3 +81,8 @@ h4{
 h1{
     color: aliceblue
 }
+
+mark{
+    border-radius: 1.5px;
+    padding: 3px 
+}
