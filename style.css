@@ -12,7 +12,7 @@ body{
 a{text-decoration: none}
 
 li a {color: #0074D9}
-a:hover, a:active{color: #f58233}
+a:hover, a:active{color:#FFDC00;}
 /*------------------MAIN HEADER-----------------*/
 .headerImage{
     width: 100%;
