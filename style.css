@@ -16,22 +16,23 @@ a:hover, a:active{color:#FFDC00;}
 /*------------------MAIN HEADER-----------------*/
 .headerImage{
     width: 100%;
-    height: 250px;
+    height: 290px;
     border-radius: 5px;
     position: relative;
 }
 .imgWrapper{
     position: relative;
+    padding-bottom: 0
 }
 .samer{
     position: absolute;
-    top: 20px;
+    top: 60px;
     right: 15px;
     height: 250px;
     border-radius: 6px;
 }
 .mainheader nav{
-    margin-top: 20px;
+    margin:2px;
     background-color: #f58233;
     height: 40px;
     border-radius: 5px; 
