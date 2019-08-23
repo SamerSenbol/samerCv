@@ -20,7 +20,7 @@ a:hover, a:active{color:#FFDC00;}
     border-radius: 5px;
     position: relative;
 }
-.headerImg{
+.imgWrapper{
     position: relative;
 }
 .samer{
