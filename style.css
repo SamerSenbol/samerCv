@@ -26,9 +26,9 @@ a:hover, a:active{color:#FFDC00;}
 }
 .samer{
     position: absolute;
-    top: 60px;
+    top: 10%;
+    height: 275px;
     right: 15px;
-    height: 250px;
     border-radius: 6px;
 }
 .mainheader nav{
