@@ -1,1 +1,1 @@
-You can try my demo [here](https://github.com/SamerSenbol/samerCv/)
+You can try my demo [here](https://samersenbol.github.io/samerCv/)
